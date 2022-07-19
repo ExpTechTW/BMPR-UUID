@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "name": "uuid",
+    "description": {
+        "zh_tw": "UUID 產生器"
+    },
+    "events": [
+
+    ],
+    "commands": [],
+    "author": [
+        "whes1015" , "Pisces_#0001"
+    ],
+    "dependencies": {
+        "BMPR": ">=1.0.1"
+    },
+    "resources": [],
+    "link": "https://github.com/ExpTechTW/BMPR-UUID"
+}
